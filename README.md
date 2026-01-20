@@ -31,3 +31,12 @@ REGRAS:
 
 
 ## 🎯 Resultado final
+
+<img width="1060" height="430" alt="tela3" src="https://github.com/user-attachments/assets/0148ec1e-233b-4981-9985-3f6eaf8a67a6" />
+
+
+<img width="1121" height="443" alt="tela4" src="https://github.com/user-attachments/assets/0ae12bea-7656-49de-a792-478a2659765c" />
+
+
+
+
